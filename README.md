@@ -4,7 +4,7 @@ TCL WORKSHOP - Introduction to Advanced Scripting Techniques in Design and Synth
 
 
 About
-A comprehensive 5 day training workshop that is designed to ignite your passion for TCL and equip you with the skills needed to excel in advanced scripting techniques required in the realm of EDA.
+A comprehensive 10 day training workshop that is designed to ignite your passion for TCL and equip you with the skills needed to excel in advanced scripting techniques required in the realm of EDA.
 
 Workshop conducted by VLSI System Design : VSD website
 
@@ -298,7 +298,7 @@ A TCL toolbox was created to which the design details were fed. The design detai
 
 **Acknowledgement**
 
-The above work was carried out as a part of the 5-day workshop on TCL Programming organised by VLSI System Design. I am greatly indebted to Kunal Ghosh (course instructor), Geetima Kachari (TA) and the entire VSD Team for this great learning experience and immense guidance provided throughout the workshop.
+The above work was carried out as a part of the 10-day workshop on TCL Programming organised by VLSI System Design. I am greatly indebted to Kunal Ghosh (course instructor), Geetima Kachari (TA) and the entire VSD Team for this great learning experience and immense guidance provided throughout the workshop.
 
 
 
