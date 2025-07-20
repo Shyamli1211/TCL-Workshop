@@ -1,6 +1,6 @@
 # TCL-Workshop
 TCL WORKSHOP - Introduction to Advanced Scripting Techniques in Design and Synthesis
-![workshop_banner](https://github.com/user-attachments/assets/63291de8-0f0d-44a2-a815-b8008ea9225d)
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/ca5287aa-9b68-4876-b7ae-38822094accf" />
 
 
 About
